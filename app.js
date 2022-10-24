@@ -147,5 +147,5 @@ function removeLocalTodo(todo){
     localStorage.setItem('todos',JSON.stringify(todos));
 
 
-
+function(){}
 }
